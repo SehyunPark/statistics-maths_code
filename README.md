@@ -6,3 +6,5 @@
 👋 <b>poisson distribution</b> 시각화 (모수 lambda - parameter)
 <a href = "https://github.com/SehyunPark/statistics_code/blob/main/distribution/poisson_distribution.ipynb"> <img src="https://img.shields.io/badge/Click_Me-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
 </a>
+
+<b>🌟 statistics/math code repo 🌟</b>
