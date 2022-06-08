@@ -7,4 +7,4 @@
 <a href = "https://github.com/SehyunPark/statistics_code/blob/main/distribution/poisson_distribution.ipynb"> <img src="https://img.shields.io/badge/Click_Me-EA4AAA?style=flat-square&logo=GitHub Sponsors&logoColor=white"/>
 </a>
 
-<b>🌟 statistics/math code repo 🌟</b>
+<b>🌟 statistics/math CONCEPTS code repo 🌟</b>
